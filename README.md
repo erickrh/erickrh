@@ -1,6 +1,6 @@
 # Hi, I am Erick!
 
-![](https://imgur.com/I0RCZDw.png)
+![](https://imgur.com/tdRNavh.png)
 
 ### I'm a Frontend developer.
 
