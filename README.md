@@ -4,6 +4,8 @@
 
 ### I'm a Frontend developer.
 
+A systems engineering professional passionate about web development, with a specialization in creating efficient and effective web solutions using React.js. Expertise lies in designing and developing user-friendly and useful web applications. A committed collaborator, always eager to learn and share knowledge with other professionals in the field of web development. Constantly seeking new opportunities and challenges to expand experience and improve skills.
+
 - 🌱 I love learning new technologies every day.
 - ⚡️ Proactive approach, love of knowledge and a capacity for constant learning.
 - 🏢 Honest, responsible and committed person for work.
