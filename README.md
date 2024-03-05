@@ -10,7 +10,7 @@ A systems engineering professional passionate about web development, with a spec
 - ⚡️ Proactive approach, love of knowledge and a capacity for constant learning.
 - 🏢 Honest, responsible and committed person for work.
 - 💚 I like solving problems and maintaining critical thinking in order to create an optimal solution.
-- 📫 Reach me: [https://www.linkedin.com/in/erick-riaño/](https://www.linkedin.com/in/erick-riaño/)
+- 📫 Reach me: [https://www.linkedin.com/in/erickrian/](https://www.linkedin.com/in/erickrian/)
 ---
 ###  Languages and tools:
 
@@ -19,6 +19,7 @@ A systems engineering professional passionate about web development, with a spec
 	<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp; 
 	<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp; 
 	<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
+	<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nextjs/nextjs-original.svg" title="next.js" alt="next.js" width="40" height="40"/>&nbsp;
 	<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp; 
 	<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg" title="tailwindCSS" alt="tailwindCSS" width="40" height="40"/>&nbsp; 
 	<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp; 
