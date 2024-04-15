@@ -24,7 +24,9 @@ A systems engineering professional passionate about web development, with a spec
 	<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp; 
 	<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg" title="tailwindCSS" alt="tailwindCSS" width="40" height="40"/>&nbsp; 
 	<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp; 
+	<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/materialui/materialui-original.svg" title="material-ui" alt="material-ui" width="40" height="40"/>&nbsp;
 	<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp; 
+	<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
 	<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp; 
 	<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/eslint/eslint-original.svg" title="eslint" alt="eslint" width="40" height="40"/>&nbsp; 
 </div>
